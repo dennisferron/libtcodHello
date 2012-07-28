@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1343508564 source:c:\code\testlibtcod\main.cpp
+	"libtcod.hpp"
+
+1343500737 c:\code\libtcod-1.5.0\include\libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+
+1343500737 c:\code\libtcod-1.5.0\include\libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"sys.h"
+	"mersenne.h"
+	"mouse.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1343500737 c:\code\libtcod-1.5.0\include\list.h
+
+1343500737 c:\code\libtcod-1.5.0\include\color.h
+
+1343500737 c:\code\libtcod-1.5.0\include\console.h
+
+1343500737 c:\code\libtcod-1.5.0\include\image.h
+
+1343500737 c:\code\libtcod-1.5.0\include\sys.h
+
+1343500737 c:\code\libtcod-1.5.0\include\mersenne.h
+
+1343500737 c:\code\libtcod-1.5.0\include\mouse.h
+
+1343500737 c:\code\libtcod-1.5.0\include\bresenham.h
+
+1343500737 c:\code\libtcod-1.5.0\include\noise.h
+
+1343500737 c:\code\libtcod-1.5.0\include\fov.h
+
+1343500737 c:\code\libtcod-1.5.0\include\path.h
+
+1343500737 c:\code\libtcod-1.5.0\include\lex.h
+
+1343500737 c:\code\libtcod-1.5.0\include\parser.h
+
+1343500737 c:\code\libtcod-1.5.0\include\tree.h
+
+1343500737 c:\code\libtcod-1.5.0\include\bsp.h
+
+1343500737 c:\code\libtcod-1.5.0\include\heightmap.h
+
+1343500737 c:\code\libtcod-1.5.0\include\zip.h
+
+1343500737 c:\code\libtcod-1.5.0\include\namegen.h
+
+1343500737 c:\code\libtcod-1.5.0\include\txtfield.h
+	"libtcod.h"
+
+1343500737 c:\code\libtcod-1.5.0\include\list.hpp
+	<string.h>
+	<stdlib.h>
+
+1343500737 c:\code\libtcod-1.5.0\include\color.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\console.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\image.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\sys.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\mersenne.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\mouse.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\bresenham.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\noise.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\fov.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\path.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\lex.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\parser.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\tree.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\bsp.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\heightmap.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\zip.hpp
+
+1343500737 c:\code\libtcod-1.5.0\include\namegen.hpp
+
+1343508564 source:c:\code\libtcodhelloworld\main.cpp
+	"libtcod.hpp"
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"sys.h"
+	"mersenne.h"
+	"mouse.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\list.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\color.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\console.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\image.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\sys.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\mersenne.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\mouse.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\bresenham.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\noise.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\fov.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\path.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\lex.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\parser.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\tree.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\bsp.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\heightmap.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\zip.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\namegen.h
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\txtfield.h
+	"libtcod.h"
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\list.hpp
+	<string.h>
+	<stdlib.h>
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\color.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\console.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\image.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\sys.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\mersenne.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\mouse.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\bresenham.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\noise.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\fov.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\path.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\lex.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\parser.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\tree.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\bsp.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\heightmap.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\zip.hpp
+
+1343500737 c:\code\libtcodhelloworld\libtcod-1.5.0\include\namegen.hpp
+
